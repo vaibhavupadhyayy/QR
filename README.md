@@ -13,13 +13,12 @@ This project provides a user-friendly interface for generating QR codes directly
 - Instantly view and download the generated QR code.
 - Responsive design for mobile and desktop use.
 
+## Demo
+
+Check out the live demo [here](https://vaibhavupadhyayy.github.io/QR/).
+
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-
-## Getting Started
-
-To get a local copy up and running, follow these steps:
-
